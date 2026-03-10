@@ -3,10 +3,10 @@ This repository highlights my commitment to the four NHS pillars:
 Scholarship, Service, Leadership, and character.
 
 ### 🔗 Site Navigation
-- [About Me](02_about.md)
-- [Service](03_service.md)
-- [Leadership](04_leadership.md)
-- [Character](05_character.md)
-- [Awards](06_awards.md)
+- [About Me](01_about.md)
+- [Service](02_service.md)
+- [Leadership](03_leadership.md)
+- [Character](04_character.md)
+- [Awards](05_awards.md)
 
 Thank you for reviewing my application.
