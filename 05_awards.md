@@ -6,5 +6,5 @@ Acedemic Honors:<br>
 - GHP Nominee (2025)
 
 Previous section: [Character](04_character.md)
-Home page: [index](index.md)
+Home page: [Index](index.md)
  
