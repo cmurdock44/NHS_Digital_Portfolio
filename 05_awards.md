@@ -1,5 +1,6 @@
-List awards:
+# Awards
 
+Acedemic Honors:<br>
 - 2 year GHSCA all acedemic wrestling team
 - AP Scholar with disctinction
 - GHP Nominee

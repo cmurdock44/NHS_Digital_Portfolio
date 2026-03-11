@@ -1,5 +1,6 @@
-List volenteer actitvities and hours
-    
+# Service
+
+Service projects (Hours)<br>    
 - Production team at Church
 - SAT Tutoring
     

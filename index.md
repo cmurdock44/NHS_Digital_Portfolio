@@ -1,3 +1,5 @@
+# Index
+
 Welcome to my National Honor Society digital portfolio.  
 This repository highlights my commitment to the four NHS pillars:
 Scholarship, Service, Leadership, and character.
