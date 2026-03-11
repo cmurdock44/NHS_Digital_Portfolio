@@ -2,4 +2,5 @@
 
 Personal Introduction
 
-Click here for next section: [service](02_service.md)
+Home: [Index](index.md)<br>
+Next section: [service](02_service.md)

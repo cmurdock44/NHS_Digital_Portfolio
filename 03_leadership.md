@@ -5,6 +5,6 @@ Leadership positions at Cambridge:
 - 2 year junior varsity football captain
 - Career and Mentor club officer, Vice President of Operations
 
-Click here for next section: [Character](04_character.md)
+Previous section:[Service](02_service.md) Next section: [Character](04_character.md)
 
     

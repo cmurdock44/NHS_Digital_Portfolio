@@ -2,4 +2,5 @@
 
 Describe Character<br>
 
-Click here for next section: [Awards](05_awards.md)
+Previous section: [Leadership](03_leadership.md)<br>
+Next section: [Awards](05_awards.md)

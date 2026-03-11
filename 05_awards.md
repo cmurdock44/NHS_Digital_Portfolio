@@ -5,5 +5,6 @@ Acedemic Honors:<br>
 - AP Scholar with disctinction (2025)
 - GHP Nominee (2025)
 
-Click here to go back to the home page: [index](index.md)
+Previous section: [Character](04_character.md)
+Home page: [index](index.md)
  
